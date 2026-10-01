@@ -1,0 +1,3 @@
+NLP helps process documents. NLP extracts insights and organizes text.
+
+This project demonstrates document processing and natural language analysis for a document-focused project.
